@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"が","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"が","traits":[],"initialLevel":16,"maxLevel":16,"name":"わたし","nickname":"","note":"","profile":"はやく　しにたい。"},
+{"id":2,"battlerName":"がま","characterIndex":0,"characterName":"がま","classId":2,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"がま","traits":[],"initialLevel":16,"maxLevel":99,"name":"わたし","nickname":"","note":"","profile":"はやく　きえたい。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"くろさん","nickname":"くろきもの","note":"","profile":"とけるねこみたいなもの。"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"しろさん","nickname":"しろきもの","note":"","profile":"とけるねこみたいなもの。"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ミタラシ","nickname":"おすのまるむし","note":"","profile":"とうきゃくもくのせいぶつ。"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"コシアン","nickname":"めすのまるむし","note":"","profile":"とうきゃくもくのせいぶつ。"}
+]
